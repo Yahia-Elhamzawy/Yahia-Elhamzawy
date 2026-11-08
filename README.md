@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- ==================== DYNAMIC HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,29&height=240&section=header&text=Yahia%20Elhamzawy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Autonomous%20AI%20Systems%20%E2%80%A2%20Full-Stack%20Backend%20Engineer%20%E2%80%A2%20DevOps&descAlignY=62&descSize=18&descColor=00f2fe" width="100%" alt="Yahia Elhamzawy Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,29&height=240&section=header&text=Yahia%20Elhamzawy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20OS%20Architect%20%E2%80%A2%20Autonomous%20AI%20%E2%80%A2%20Robotics%20%E2%80%A2%20Enterprise%20Backends&descAlignY=62&descSize=16&descColor=00f2fe" width="100%" alt="Yahia Elhamzawy Header Banner" />
 
   <!-- ==================== ANIMATED TYPING SVG ==================== -->
   <a href="https://github.com/Yahia-Elhamzawy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00F2FE&center=true&vCenter=true&random=false&width=750&height=50&lines=%E2%9A%A1+Autonomous+AI+Agents+%26+Cognitive+Architectures;%F0%9F%8E%99%EF%B8%8F+Next-Gen+3D+Voice+Companions+(Gemini+TTS+%2B+Three.js);%F0%9F%9B%A1%EF%B8%8F+DevOps+Engineer+%7C+Docker+Fleet+Supervisor+%7C+Linux;%F0%9F%9A%80+Full-Stack+Backend+Architect+(Python+%E2%80%A2+Node.js+%E2%80%A2+TypeScript)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1100&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=50&lines=%E2%9A%A1+Systems+%26+OS+Architect+%7C+Rust+%E2%80%A2+Linux+Kernel+%E2%80%A2+C%2FC%2B%2B;%F0%9F%9A%97+Autonomous+Robotics+%26+Edge+AI+(ESP32-S3+%E2%80%A2+Multimodal+Gemini);%F0%9F%A7%A0+Agentic+Cognitive+Architectures+%26+3D+Voice+Companions+(WebGL);%F0%9F%9A%80+Enterprise+Backends+%7C+Java+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+Docker" alt="Typing SVG" />
   </a>
 
   <!-- ==================== QUICK BADGE MATRIX ==================== -->
@@ -13,9 +13,9 @@
     <a href="https://github.com/Yahia-Elhamzawy">
       <img src="https://komarev.com/ghpvc/?username=Yahia-Elhamzawy&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/FOCUS-MULTI--AGENT%20SYSTEMS-ff007f?style=for-the-badge&logo=openai&logoColor=white" alt="Current Focus" />
+    <img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20MULTI--AGENT%20AI-ff007f?style=for-the-badge&logo=rust&logoColor=white" alt="Current Focus" />
     <img src="https://img.shields.io/badge/LOCATION-CAIRO%2C%20EGYPT%20%F0%9F%87%AA%F0%9F%87%AC-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20R%26D%20%26%20COLLABS-00c853?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20R%26D%20%26%20CORE%20TEAMS-00c853?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   </p>
 
 </div>
@@ -28,17 +28,90 @@
 ╭──────────────────────────────── Yahia-Elhamzawy@Terminal ────────────────────────────────╮
 │                                                                                          │
 │  🧑‍💻 Identity   : Yoha El Hamzawy (Yahia)                                               │
-│  🚀 Speciality : Autonomous Agentic Systems, High-Concurrency Backends & Voice AI        │
-│  🧠 Core LLMs  : Google Gemini 3.5/3.8, Groq LPU, OpenAI, Local Embeddings (pgvector)    │
-│  ⚡ Stack      : Python (FastAPI/Flask), TypeScript, Node.js, Docker, Linux, Three.js    │
-│  🎯 Philosophy : "Building resilient, fail-safe intelligence that automates reality."   │
+│  🚀 Archetype  : Full-Spectrum Systems, Embedded Robotics & Autonomous AI Architect      │
+│  🦀 Core Stack : Rust, Linux Kernel, Python (FastAPI), Java (Spring Boot), TypeScript    │
+│  🤖 AI Engine  : Google Gemini (Multimodal 3.5 & 3.8 TTS), Groq LPU, Vector Embeddings  │
+│  🚗 Hardware   : ESP32-S3, Computer Vision Sensor Loops, Microcontroller Firmware       │
+│  🎯 Philosophy : "Engineering zero-compromise, fail-safe intelligence from silicon to UI"│
+│  📩 Contact    : yahya.elhamzawy.me@gmail.com                                            │
 │                                                                                          │
 ╰──────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-### 🌟 Featured Flagship Projects
+### 🔒 Proprietary & Closed-Source R&D Showcase
+
+> [!NOTE]
+> **Confidential Architecture & Core Team Inquiries:**  
+> The repositories below represent flagship proprietary systems, custom operating environments, and autonomous hardware-software platforms.  
+> 🤝 **If you represent a venture team, technical leadership, or wish to audit codebases / join the development team**, request private access directly via email: **[`yahya.elhamzawy.me@gmail.com`](mailto:yahya.elhamzawy.me@gmail.com)**.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">💎 <a href="https://github.com/Yahia-Elhamzawy/LaraOS">LaraOS V1 Beta</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Access-Private%20R%26D-critical?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Core-100%25%20Rust-DEA584?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kernel-Linux%206.8-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </p>
+      <p><b>The Premier AI-Native Hybrid Linux Operating System.</b> Engineered on Ubuntu 24.04 Noble with a high-performance Rust core, custom GRUB ISO installer, Google Material 3 UI, and native GenAI CLI engine.</p>
+      <ul>
+        <li>🦀 Pure Rust system daemon & process coordinator</li>
+        <li>💿 Custom ISO distribution & GRUB packaging toolchain</li>
+        <li>🤖 Native terminal LLM copilot integrated into shell</li>
+      </ul>
+      <p align="center">
+        <a href="mailto:yahya.elhamzawy.me@gmail.com?subject=Access%20Request:%20LaraOS%20Codebase">
+          <img src="https://img.shields.io/badge/Request%20Access%20%E2%9E%94-00F2FE?style=for-the-badge&logo=mailgun&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚗 <a href="https://github.com/Yahia-Elhamzawy/RCS">RCS (Robotic Car System)</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Access-Private%20R%26D-critical?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Hardware-ESP32--S3-E7352C?style=flat-square&logo=espressif" />
+        <img src="https://img.shields.io/badge/AI-Gemini%20Multimodal-8E75B2?style=flat-square&logo=google" />
+      </p>
+      <p><b>Voice-Guided Autonomous Micro-Vehicle & Edge Vision Loop.</b> Bridges hardware microcontrollers with cloud multimodal AI for camera perception, ambient sensory feedback, and real-time navigation.</p>
+      <ul>
+        <li>📡 ESP32-S3 microcontroller real-time motor controller</li>
+        <li>📷 Multimodal camera feed evaluation via Gemini 3.5</li>
+        <li>🎙️ Voice-directed navigation & sensory telemetry</li>
+      </ul>
+      <p align="center">
+        <a href="mailto:yahya.elhamzawy.me@gmail.com?subject=Access%20Request:%20RCS%20Robotics%20Codebase">
+          <img src="https://img.shields.io/badge/Request%20Access%20%E2%9E%94-00F2FE?style=for-the-badge&logo=mailgun&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏛️ <a href="https://github.com/Yahia-Elhamzawy/ICT_Connectors">ICT Connectors</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Access-Private%20R%26D-critical?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Testing-Playwright%20E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      </p>
+      <p><b>Enterprise Academic Collaboration & Resource Ecosystem.</b> Heavy-duty infrastructure built with Java Spring Boot, microservices architecture, Next.js interface, and production multi-container Docker fleets.</p>
+      <ul>
+        <li>☕ Robust Java & Spring Boot backend services</li>
+        <li>🎭 Playwright automated end-to-end testing matrix</li>
+        <li>🐳 Multi-environment Docker Compose production fleet</li>
+      </ul>
+      <p align="center">
+        <a href="mailto:yahya.elhamzawy.me@gmail.com?subject=Access%20Request:%20ICT%20Connectors%20Codebase">
+          <img src="https://img.shields.io/badge/Request%20Access%20%E2%9E%94-00F2FE?style=for-the-badge&logo=mailgun&logoColor=black" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Open-Source & Public Flagships
 
 <table>
   <tr>
@@ -109,42 +182,50 @@
 
 <div align="center">
 
-#### 🧠 Machine Intelligence & Agentic AI
+#### 🦀 Systems, Kernels & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Kernel%206.x-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash%20/%20Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+#### 🧠 Machine Intelligence & Multimodal AI
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-3.5%20%7C%203.8%20TTS-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multimodal%20Perception-Vision%20%2B%20Audio-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq%20LPU-Ultra%20Fast%20Inference-F55036?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-Semantic%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Autonomous%20Workflows-00F2FE?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-Vector%20Recall-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Autonomous%20Flows-00F2FE?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
-#### ⚡ Backend, Runtimes & Languages
+#### ⚡ Enterprise Backends & Distributed Architecture
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%2017%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 </p>
 
-#### ☁️ DevOps, Cloud & System Administration
+#### ☁️ DevOps, Cloud & Testing Excellence
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash%20/%20Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20%26%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright%20E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH%20Tunnels-000000?style=for-the-badge&logo=ssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL%2016-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH%20Security-000000?style=for-the-badge&logo=ssh&logoColor=white" />
 </p>
 
-#### 🎨 Interactive 3D & Modern Frontend
+#### 🎨 Modern Frontend & 3D Visuals
 <p>
+  <img src="https://img.shields.io/badge/Next.js%2014%2F15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2018%2F19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -186,23 +267,25 @@
 
 ---
 
-### 📡 Initiate Uplink (Let's Connect)
+### 📡 Initiate Uplink (Let's Connect & Collaborate)
 
 <div align="center">
-  <p>I am always keen to collaborate on <b>Autonomous Multi-Agent Systems</b>, <b>High-Concurrency Backends</b>, and <b>Pioneering Voice AI Interfaces</b>.</p>
+  <p>I am actively welcoming technical inquiries for <b>Systems Architecture</b>, <b>Autonomous Multimodal Robotics</b>, and <b>Core Engineering Teams</b>.</p>
 
   <p>
-    <a href="mailto:yohaelhamzawy@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:yahya.elhamzawy.me@gmail.com">
+      <img src="https://img.shields.io/badge/Email%20Me-yahya.elhamzawy.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
     </a>
+  </p>
+  <p>
     <a href="https://github.com/Yahia-Elhamzawy">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Yahia--Elhamzawy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://t.me/Yahia_Elhamzawy">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-Yahia_Elhamzawy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://linkedin.com/in/yahia-elhamzawy">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
   
