@@ -1,7 +1,18 @@
 <div align="center">
 
-  <!-- ==================== DYNAMIC HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,29&height=240&section=header&text=Yahia%20Elhamzawy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Fleet%20Architect%20%E2%80%A2%20Rust%20%26%20Linux%20Systems%20%E2%80%A2%20Autonomous%20AI%20%E2%80%A2%20Enterprise&descAlignY=62&descSize=16&descColor=00f2fe" width="100%" alt="Yahia Elhamzawy Header Banner" />
+  <!-- ==================== LOCAL RESILIENT VECTOR BANNER ==================== -->
+  <img src="./assets/header-banner.svg" width="100%" alt="Yahia Elhamzawy Header Banner" />
+
+  <!-- ==================== FAST NAVIGATION HUB ==================== -->
+  <p align="center">
+    <a href="#-autonomous-robotics-fleet-air--ground-ecosystem"><b>🚁 Robotics Fleet</b></a> •
+    <a href="#-proprietary--closed-source-systems-rd"><b>🔒 Systems R&D</b></a> •
+    <a href="#-autonomous-agents--cognitive-ecosystem"><b>🧠 AI Ecosystem</b></a> •
+    <a href="#-engineering-ecosystem-topology"><b>🌐 Topology</b></a> •
+    <a href="#-full-spectrum-polyglot-matrix-all-19-repositories"><b>💻 Polyglot Matrix</b></a> •
+    <a href="#%EF%B8%8F-tech-arsenal--weaponry"><b>🛠️ Tech Arsenal</b></a> •
+    <a href="#-nokia-1999-snake-ii-the-bug-hunter-edition-"><b>🎮 Retro Snake</b></a>
+  </p>
 
   <!-- ==================== ANIMATED TYPING SVG ==================== -->
   <a href="https://github.com/Yahia-Elhamzawy">
@@ -37,6 +48,38 @@
 │  📩 Contact    : yahya.elhamzawy.me@gmail.com                                            │
 │                                                                                          │
 ╰──────────────────────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+### 🌐 Engineering Ecosystem Topology
+
+```mermaid
+flowchart TD
+    subgraph Silicon_Edge["⚡ Edge & Autonomous Robotics Fleet"]
+        A["🚁 SkyHound (ESP32 Drone)<br/>250Hz FreeRTOS PID • Fast I2C • ESP32-CAM"]
+        B["🚗 RCS (ESP32-S3 Rover)<br/>Motor Actuation • Live Multimodal Feed"]
+    end
+
+    subgraph Systems_Core["🦀 Systems & OS Core"]
+        C["💎 LaraOS Engine<br/>Pure Rust Core • Linux 6.8 Kernel • TermiosGuard"]
+        D["💻 RtlTerminal Engine<br/>Bi-directional RTL Text Shaper (C# / .NET)"]
+    end
+
+    subgraph Intelligence_Layer["🧠 Cognitive & Multi-Agent Intelligence"]
+        E["🎙️ 3D Voice Companion<br/>Three.js WebGL • Gemini 3.8 Flash TTS"]
+        F["🛡️ Failover AI Orchestrators<br/>Gemini ➔ Groq LPU ➔ NVIDIA Nemotron"]
+        G["👁️ Edge Tactical Vision<br/>Air-Gapped Local Ollama (Gemma 3)"]
+    end
+
+    subgraph Enterprise_Scale["🐳 Distributed Enterprise & Cloud"]
+        H["🏛️ ICT Connectors<br/>Java Spring Boot 3 • Multi-Stage Alpine Docker"]
+        I["🎭 Continuous Verification<br/>Playwright E2E Automated Test Suites"]
+    end
+
+    Silicon_Edge <== Telemetry & WebSockets ==> Systems_Core
+    Systems_Core <== Safe Interprocess Pipelines ==> Intelligence_Layer
+    Intelligence_Layer <== Microservice APIs ==> Enterprise_Scale
 ```
 
 ---
@@ -306,6 +349,6 @@
   
   <br />
 
-  <!-- ==================== WAVING FOOTER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=29,22,15,11,6&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <!-- ==================== LOCAL RESILIENT FOOTER WAVE ==================== -->
+  <img src="./assets/footer-wave.svg" width="100%" alt="Footer Wave" />
 </div>

@@ -1,0 +1,16 @@
+<svg width="1000" height="100" viewBox="0 0 1000 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="footWave2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#4FACFE" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#00F2FE" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0.5" />
+    </linearGradient>
+  </defs>
+  <path d="M0 40 C 200 80, 450 10, 700 50 C 850 70, 950 20, 1000 40 L 1000 100 L 0 100 Z" fill="url(#footWave2)" />
+  <path d="M0 60 C 250 20, 450 90, 650 40 C 800 10, 900 70, 1000 50 L 1000 100 L 0 100 Z" fill="url(#footWave1)" />
+</svg>
