@@ -1,0 +1,118 @@
+<svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #58a6ff; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 400; fill: #8b949e; }
+    .lang-name { font-family: "JetBrains Mono", -apple-system, BlinkMacSystemFont, monospace; font-size: 13.5px; font-weight: 600; fill: #c9d1d9; }
+    .lang-pct { font-family: "JetBrains Mono", monospace; font-size: 13px; font-weight: 500; fill: #8b949e; }
+    .dot { rx: 4px; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1" y="1" width="798" height="298" class="bg" />
+
+  <!-- Header -->
+  <text x="32" y="38" class="title">⚡ Full-Spectrum Polyglot Breakdown</text>
+  <text x="32" y="58" class="subtitle">Aggregate codebase metrics across all 19 repositories (Public Open-Source + Private R&amp;D)</text>
+
+  <!-- Multi-Segment Progress Bar (Total width = 736) -->
+  <g transform="translate(32, 78)">
+    <clipPath id="bar-clip">
+      <rect x="0" y="0" width="736" height="12" rx="6" />
+    </clipPath>
+    <g clip-path="url(#bar-clip)">
+      <!-- Python 25.20% -> 185.5 px -->
+      <rect x="0" y="0" width="185.5" height="12" fill="#3572A5" />
+      <!-- TypeScript 24.75% -> 182.2 px -->
+      <rect x="185.5" y="0" width="182.2" height="12" fill="#3178C6" />
+      <!-- C# 9.01% -> 66.3 px -->
+      <rect x="367.7" y="0" width="66.3" height="12" fill="#178600" />
+      <!-- Java 8.44% -> 62.1 px -->
+      <rect x="434.0" y="0" width="62.1" height="12" fill="#b07219" />
+      <!-- JavaScript 6.32% -> 46.5 px -->
+      <rect x="496.1" y="0" width="46.5" height="12" fill="#f1e05a" />
+      <!-- CSS 5.05% -> 37.2 px -->
+      <rect x="542.6" y="0" width="37.2" height="12" fill="#563d7c" />
+      <!-- Rust 4.75% -> 35.0 px -->
+      <rect x="579.8" y="0" width="35.0" height="12" fill="#dea584" />
+      <!-- Shell 4.53% -> 33.3 px -->
+      <rect x="614.8" y="0" width="33.3" height="12" fill="#89e051" />
+      <!-- QML 3.99% -> 29.4 px -->
+      <rect x="648.1" y="0" width="29.4" height="12" fill="#44a51c" />
+      <!-- HTML 7.16% -> 52.7 px -->
+      <rect x="677.5" y="0" width="52.7" height="12" fill="#e34c26" />
+      <!-- Remaining (C++, C, Lua, etc.) -> 5.8 px -->
+      <rect x="730.2" y="0" width="5.8" height="12" fill="#f34b7d" />
+    </g>
+  </g>
+
+  <!-- Language Grid (3 Columns) -->
+  <!-- Column 1 (x = 32) -->
+  <g transform="translate(32, 120)">
+    <!-- Python -->
+    <rect x="0" y="3" width="12" height="12" fill="#3572A5" class="dot" />
+    <text x="22" y="14" class="lang-name">Python</text>
+    <text x="140" y="14" class="lang-pct">25.20%</text>
+
+    <!-- TypeScript -->
+    <rect x="0" y="35" width="12" height="12" fill="#3178C6" class="dot" />
+    <text x="22" y="46" class="lang-name">TypeScript</text>
+    <text x="140" y="46" class="lang-pct">24.75%</text>
+
+    <!-- C# -->
+    <rect x="0" y="67" width="12" height="12" fill="#178600" class="dot" />
+    <text x="22" y="78" class="lang-name">C# (.NET)</text>
+    <text x="140" y="78" class="lang-pct">9.01%</text>
+
+    <!-- Java -->
+    <rect x="0" y="99" width="12" height="12" fill="#b07219" class="dot" />
+    <text x="22" y="110" class="lang-name">Java</text>
+    <text x="140" y="110" class="lang-pct">8.44%</text>
+  </g>
+
+  <!-- Column 2 (x = 290) -->
+  <g transform="translate(290, 120)">
+    <!-- Rust -->
+    <rect x="0" y="3" width="12" height="12" fill="#dea584" class="dot" />
+    <text x="22" y="14" class="lang-name">Rust</text>
+    <text x="140" y="14" class="lang-pct">4.75%</text>
+
+    <!-- JavaScript -->
+    <rect x="0" y="35" width="12" height="12" fill="#f1e05a" class="dot" />
+    <text x="22" y="46" class="lang-name">JavaScript</text>
+    <text x="140" y="46" class="lang-pct">6.32%</text>
+
+    <!-- Shell / Bash -->
+    <rect x="0" y="67" width="12" height="12" fill="#89e051" class="dot" />
+    <text x="22" y="78" class="lang-name">Shell / Bash</text>
+    <text x="140" y="78" class="lang-pct">4.53%</text>
+
+    <!-- QML & C/C++ -->
+    <rect x="0" y="99" width="12" height="12" fill="#44a51c" class="dot" />
+    <text x="22" y="110" class="lang-name">QML &amp; C/C++</text>
+    <text x="140" y="110" class="lang-pct">4.55%</text>
+  </g>
+
+  <!-- Column 3 (x = 548) -->
+  <g transform="translate(548, 120)">
+    <!-- HTML5 -->
+    <rect x="0" y="3" width="12" height="12" fill="#e34c26" class="dot" />
+    <text x="22" y="14" class="lang-name">HTML5</text>
+    <text x="140" y="14" class="lang-pct">7.16%</text>
+
+    <!-- CSS3 -->
+    <rect x="0" y="35" width="12" height="12" fill="#563d7c" class="dot" />
+    <text x="22" y="46" class="lang-name">CSS3 / Tailwind</text>
+    <text x="140" y="46" class="lang-pct">5.05%</text>
+
+    <!-- Assembly / Others -->
+    <rect x="0" y="67" width="12" height="12" fill="#f34b7d" class="dot" />
+    <text x="22" y="78" class="lang-name">Lua / PowerShell</text>
+    <text x="140" y="78" class="lang-pct">0.25%</text>
+
+    <!-- Total Analyzed -->
+    <rect x="0" y="99" width="12" height="12" fill="#58a6ff" class="dot" />
+    <text x="22" y="110" class="lang-name">Total Scanned</text>
+    <text x="140" y="110" class="lang-pct">6.82 MB</text>
+  </g>
+</svg>

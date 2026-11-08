@@ -5,7 +5,7 @@
 
   <!-- ==================== ANIMATED TYPING SVG ==================== -->
   <a href="https://github.com/Yahia-Elhamzawy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1100&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=50&lines=%E2%9A%A1+Systems+%26+OS+Architect+%7C+Rust+%E2%80%A2+Linux+Kernel+%E2%80%A2+C%2FC%2B%2B;%F0%9F%9A%97+Autonomous+Robotics+%26+Edge+AI+(ESP32-S3+%E2%80%A2+Multimodal+Gemini);%F0%9F%A7%A0+Agentic+Cognitive+Architectures+%26+3D+Voice+Companions+(WebGL);%F0%9F%9A%80+Enterprise+Backends+%7C+Java+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1100&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=50&lines=%E2%9A%A1+Systems+%26+OS+Architect+%7C+Rust+%E2%80%A2+Linux+Kernel+%E2%80%A2+C%2FC%2B%2B;%F0%9F%9A%97+Autonomous+Robotics+%26+Edge+AI+(ESP32-S3+%E2%80%A2+Multimodal+Gemini);%F0%9F%A7%A0+Agentic+Cognitive+Architectures+%26+3D+Voice+Companions+(WebGL);%F0%9F%9A%80+Enterprise+Backends+%7C+Java+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+Docker" alt="Typing SVG" />
   </a>
 
   <!-- ==================== QUICK BADGE MATRIX ==================== -->
@@ -29,7 +29,7 @@
 │                                                                                          │
 │  🧑‍💻 Identity   : Yoha El Hamzawy (Yahia)                                               │
 │  🚀 Archetype  : Full-Spectrum Systems, Embedded Robotics & Autonomous AI Architect      │
-│  🦀 Core Stack : Rust, Linux Kernel, Python (FastAPI), Java (Spring Boot), TypeScript    │
+│  🦀 Core Stack : Rust, Linux Kernel, Python, Java (Spring Boot), TypeScript, C#, C/C++  │
 │  🤖 AI Engine  : Google Gemini (Multimodal 3.5 & 3.8 TTS), Groq LPU, Vector Embeddings  │
 │  🚗 Hardware   : ESP32-S3, Computer Vision Sensor Loops, Microcontroller Firmware       │
 │  🎯 Philosophy : "Engineering zero-compromise, fail-safe intelligence from silicon to UI"│
@@ -178,6 +178,15 @@
 
 ---
 
+### 💻 Full-Spectrum Polyglot Matrix (All 19 Repositories)
+
+<div align="center">
+  <p>True aggregate codebase metrics across all 19 repositories (Open-Source + Private R&D Infrastructure):</p>
+  <img src="./assets/polyglot-languages.svg" width="100%" alt="Aggregate Language Metrics" />
+</div>
+
+---
+
 ### 🛠️ Tech Arsenal & Weaponry
 
 <div align="center">
@@ -202,12 +211,13 @@
 
 #### ⚡ Enterprise Backends & Distributed Architecture
 <p>
+  <img src="https://img.shields.io/badge/Python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java%2017%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 </p>
 
@@ -220,12 +230,13 @@
   <img src="https://img.shields.io/badge/SSH%20Security-000000?style=for-the-badge&logo=ssh&logoColor=white" />
 </p>
 
-#### 🎨 Modern Frontend & 3D Visuals
+#### 🎨 Modern Frontend, UI Systems & 3D
 <p>
   <img src="https://img.shields.io/badge/Next.js%2014%2F15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React%2018%2F19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/QML%20%2F%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -233,29 +244,7 @@
 
 ---
 
-### 📊 Real-Time GitHub Intelligence & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yahia-Elhamzawy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" width="100%" alt="Yahia's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Yahia-Elhamzawy&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" width="100%" alt="Yahia's Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yahia-Elhamzawy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🐍 Contribution Activity Matrix
+### 🐍 Contribution Activity Matrix (Nokia 3310 Retro Snake)
 
 <div align="center">
   <picture>
